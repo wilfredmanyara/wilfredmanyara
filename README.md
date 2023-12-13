@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular for Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [wilfredmanyara.com](wilfredmanyara.com)
+- 👨‍💻 All of my projects are available at [bit.ly/WilfredManyara](bit.ly/WilfredManyara)
 
 - 💬 Ask me about **Android, MERN**
 
