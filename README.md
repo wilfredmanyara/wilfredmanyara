@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Flutter for Mobile App Development**
 
-- 👨‍💻 All of my projects are available at wilfredmanyara.com
-
 - 💬 Ask me about **Next.js, TailwindCSS**
 
 - 📫 How to reach me **manyarawilly46@gmail.com**
