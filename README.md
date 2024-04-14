@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Next.js, TailwindCSS**
 
-- 📫 How to reach me **manyarawilly46@gmail.com**
+- 📫 How to reach me **info@wilfredmanyara.com**
 
 - ⚡ Fun fact **I think I am funny**
 
