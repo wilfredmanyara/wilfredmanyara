@@ -7,12 +7,12 @@
 <p align="left"> <a href="https://twitter.com/azprod_x" target="blank"><img src="https://img.shields.io/twitter/follow/azprod_x?logo=twitter&style=for-the-badge" alt="Azprod_x" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter for Mobile App Development**
-
-- 💬 Ask me about **React, Next.js and TailwindCSS**
-
+  
 - 📫 How to reach me **info@wilfredmanyara.com**
+Expertise:
+- 💬 Web App Development: **React.js, NextJS**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Mobile App Development: **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
