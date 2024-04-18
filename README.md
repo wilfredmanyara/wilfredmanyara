@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Flutter for Mobile App Development**
   
 - 📫 How to reach me **info@wilfredmanyara.com**
-Expertise:
+  
 - 💬 Web App Development: **React.js, NextJS**
 
 - ⚡ Mobile App Development: **React Native**
