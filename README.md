@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilfredmanyara&label=Profile%20views&color=0e75b6&style=flat" alt="wilfredmanyara" /> </p>
 
-<p align="left"> <a href="https://twitter.com/azprod_x" target="blank"><img src="https://img.shields.io/twitter/follow/azprod_x?logo=twitter&style=for-the-badge" alt="Azprod_x" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter for Mobile App Development**
   
 - 📫 How to reach me **info@wilfredmanyara.com**
