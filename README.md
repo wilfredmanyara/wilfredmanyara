@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-codes-developer-271715415.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilfredmanyara&label=Profile%20views&color=0e75b6&style=flat" alt="wilfredmanyara" /> </p>
-
-- 🌱 I’m currently learning **Flutter for Mobile App Development**
   
 - 📫 How to reach me **info@wilfredmanyara.com**
   
