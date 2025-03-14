@@ -6,9 +6,9 @@
   
 - 📫 How to reach me **info@wilfredmanyara.com**
   
-- 💬 Web App Development: **MERN, NextJS**
+- 💬 Web Development: **MERN, NextJS**
 
-- ⚡ Mobile App Development: **React Native**
+- ⚡ Mobile Development: **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
