@@ -8,7 +8,7 @@
   
 - 💬 Web Development: **MERN, NextJS**
 
-- ⚡ Mobile Development: **React Native**
+- ⚡ Mobile Development: **React Native, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
